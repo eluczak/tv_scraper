@@ -1,56 +1,54 @@
-number	channel	nazwa_ok	co siê sciagnelo,channel,nazwa_ok,co siê sciagnelo
-163	Active Family	Active Family	BBC First,Active Family,Active Family,Active Family
-385	Adventure	Adventure	AXN Spin,Adventure,Adventure,Adventure
-482	Ale Kino+	Ale kino+	FOX Comedy,Ale Kino+,Ale kino+,Ale kino+
-381	Animal Planet HD	Animal Planet HD	Active Family,Animal Planet HD,Animal Planet HD,Animal Planet HD
-22	AXN	AXN	Fokus TV,AXN,AXN,AXN
-480	AXN Black	AXN Black	AXN Black,AXN Black,AXN Black,AXN Black
-477	AXN Spin	AXN Spin	AXN,AXN Spin,AXN Spin,AXN Spin
-479	AXN White	AXN White	AXN White,AXN White,AXN White,AXN White
-111	BBC Brit	BBC Brit	Discovery Science,BBC Brit,BBC Brit,BBC Brit
-382	BBC Earth	BBC Earth	BBC Earth,BBC Earth,BBC Earth,BBC Earth
-110	BBC First	BBC First	Eurosport 1,BBC First,BBC First,BBC First
-109	BBC Lifestyle	BBC Lifestyle	Paramount Channel HD,BBC Lifestyle,BBC Lifestyle,BBC Lifestyle
-343	BBC World News	BBC World News	Fokus TV,BBC World News,BBC World News,BBC World News
-323	Biznes 24	#N/D	TVN Style,Biznes 24,#N/D,
-491	CBS Europa	CBS Europa	DocuBox HD,CBS Europa,CBS Europa,CBS Europa
-392	CBS Reality	CBS Reality	TV 5 Monde Europe,CBS Reality,CBS Reality,CBS Reality
-347	CNN	CNN	Polsat Seriale,CNN,CNN,CNN
-10	Comedy Central	Comedy Central	TVN 7,Comedy Central,Comedy Central,Comedy Central
-398	Da Vinci	Da Vinci	Discovery Historia,Da Vinci,Da Vinci,Da Vinci
-814	Deutsche Welle	#N/D	France 24,Deutsche Welle,#N/D,
-391	Discovery Historia	Discovery Historia	BBC Brit,Discovery Historia,Discovery Historia,Discovery Historia
-377	Discovery Science	Discovery Science	BBC Lifestyle,Discovery Science,Discovery Science,Discovery Science
-397	DocuBox HD	DocuBox HD	Red Carpet TV HD,DocuBox HD,DocuBox HD,DocuBox HD
-565	Eurosport 1	Eurosport 1	CNN,Eurosport 1,Eurosport 1,Eurosport 1
-386	Fokus TV	Fokus TV	Tele 5 HD,Fokus TV,Fokus TV,Fokus TV
-95	Fox	FOX	Polsat Film,Fox,FOX,FOX
-94	FOX Comedy	FOX Comedy	TVN Fabu³a,FOX Comedy,FOX Comedy,FOX Comedy
-818	France 24	France 24	,France 24,France 24,France 24
-109	History	HISTORY	Animal Planet HD,History,HISTORY,HISTORY
-70	Kino Polska	Kino Polska	AXN Black,Kino Polska,Kino Polska,Kino Polska
-11	Paramount Channel HD	Paramount Channel HD	TV Puls,Paramount Channel HD,Paramount Channel HD,Paramount Channel HD
-384	PLANETE+	Planete+	Da Vinci,PLANETE+,Planete+,Planete+
-5	Polsat	Polsat	Polsat,Polsat,Polsat,Polsat
-481	Polsat Film	Polsat Film	AXN,Polsat Film,Polsat Film,Polsat Film
-322	Polsat News	Polsat News	TVN,Polsat News,Polsat News,Polsat News
-498	Polsat Seriale	Polsat Seriale	AXN White,Polsat Seriale,Polsat Seriale,Polsat Seriale
-25	Puls 2	PULS 2	TVN,Puls 2,PULS 2,
-162	Red Carpet TV HD	Red Carpet TV HD	Comedy Central,Red Carpet TV HD,Red Carpet TV HD,Red Carpet TV HD
-27	Stopklatka	STOPKLATKA	Travel Channel,Stopklatka,STOPKLATKA,
-494	Sundance TV	Sundance TV	Warner TV HD,Sundance TV,Sundance TV,Sundance TV
-119	Tele 5 HD	Tele 5 HD	Polsat News,Tele 5 HD,Tele 5 HD,Tele 5 HD
-355	TLC	TLC	TLC,TLC,TLC,TLC
-104	Travel Channel	Travel Channel	TVN 24,Travel Channel,Travel Channel,Travel Channel
-817	TV 5 Monde Europe	TV 5 Monde Europe	BBC World News,TV 5 Monde Europe,TV 5 Monde Europe,TV 5 Monde Europe
-8	TV Puls	TV Puls	Polsat,TV Puls,TV Puls,TV Puls
-7	TVN	TVN	TV Puls,TVN,TVN,TVN
-6	TVN 24	TVN 24	TVN 7,TVN 24,TVN 24,TVN 24
-9	TVN 7	TVN 7	Sundance TV,TVN 7,TVN 7,TVN 7
-107	TVN Fabu³a	TVN Fabu³a	TVN Fabu³a,TVN Fabu³a,TVN Fabu³a,TVN Fabu³a
-106	TVN Style	TVN Style	CBS Europa,TVN Style,TVN Style,TVN Style
-486	Warner TV HD	Warner TV HD	Kino Polska,Warner TV HD,Warner TV HD,Warner TV HD
-26	Zoom TV	ZOOM TV	CBS Reality,Zoom TV,ZOOM TV,ZOOM TV
-,,,TVN Fabu³a
-,,,TVN Style
-,,,Warner TV HD
+number,channel
+5,Polsat
+322,Polsat News
+6,TVN 24
+7,TVN
+343,BBC World News
+481,Polsat Film
+498,Polsat Seriale
+70,Kino Polska
+107,TVN Fabu³a
+8,TV Puls
+25,Puls 2
+10,Comedy Central
+11,Paramount Channel HD
+22,AXN
+477,AXN Spin
+479,AXN White
+480,AXN Black
+94,FOX Comedy
+95,Fox
+162,Red Carpet TV HD
+486,Warner TV HD
+482,Ale Kino+
+9,TVN 7
+106,TVN Style
+109,BBC Lifestyle
+110,BBC First
+111,BBC Brit
+382,BBC Earth
+109,History
+26,Zoom TV
+27,Stopklatka
+104,Travel Channel
+119,Tele 5 HD
+163,Active Family
+323,Biznes 24
+347,CNN
+355,TLC
+377,Discovery Science
+391,Discovery Historia
+381,Animal Planet HD
+383,Travel Channel
+384,PLANETE+
+385,Adventure
+386,Fokus TV
+392,CBS Reality
+397,DocuBox HD
+398,Da Vinci
+491,CBS Europa
+494,Sundance TV
+565,Eurosport 1
+814,Deutsche Welle
+817,TV 5 Monde Europe
+818,France 24
