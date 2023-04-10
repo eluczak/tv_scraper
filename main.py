@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 num_of_subpages = 29
 
-fav_channels = ["TVN 24","TVN","TV Puls","TVN 7","AXN","WP","Puls 2","STOPKLATKA","Kino TV","National Geographic","FOX Comedy","FOX","Travel Channel","TVN Style","TVN Fabuła","CANAL+ DOMO","HOME TV HD","TVN24 BiS","Animal Planet HD","BBC Earth","Planete+","Discovery Historia","Da Vinci","Ale kino+","Warner TV HD","AMC","CBS Europa"]
+fav_channels = ["TVN 24","TVN","TV Puls","TVN 7","AXN","WP","PULS 2 HD","STOPKLATKA","Kino TV","National Geographic","FOX Comedy","FOX","Travel Channel","TVN Style","TVN Fabuła","CANAL+ DOMO","HOME TV HD","TVN24 BiS","Animal Planet HD","BBC Earth","Planete+","Discovery Historia","Da Vinci","Ale kino+","Warner TV HD","AMC","CBS Europa"]
 fav_channels_numbers = ["6","7","8","9","22","23","24","27","71","93","94","100","104","106","107","146","159","335","381","382","384","391","398","482","486","488","491"]
 for j in range(1,num_of_subpages+1):
 
