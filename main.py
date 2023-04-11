@@ -34,4 +34,4 @@ for j in range(1,num_of_subpages+1):
             programme = title_soup.a.text.strip()
             programme_next = title_soup_next.a.text.strip()
             channel_number = str(fav_channels_numbers[len(fav_channels) - fav_channels[::-1].index(soup_channels[i].text.strip()) - 1])
-            st.markdown("**" + channel + " [ " + channel_number + " ]** "+ hour + " " + programme + " | " + hour_next + " " + programme_next)
+            st.markdown("**" + channel + " " + channel_number + " **| "+ hour + " " + programme + " | " + hour_next + " " + programme_next)
